@@ -1,2 +1,2 @@
-# ml_dl_lecture_study
-Edwith, 코세라 ML/DL 등 강의 정리
+# 머신러닝/딥러닝 강의정리
+## 1.코세라 SQL for Data Science 강의 (UC Davis Extension)
